@@ -1,0 +1,38 @@
+name Joao Silva
+gross salary 50,000
+resident y
+expenses 300
+
+account 1
+rate 0.07
+weeks 5
+amount 100
+account 2
+rate 0.07
+weeks 5
+amount 200
+account 3
+rate 0.08
+weeks 5
+amount 100
+
+name Anna Fonseca
+gross salary 150,000
+resident y
+expenses 1000
+
+account 1
+rate 0.05
+weeks 10
+amount 500
+account 2
+rate 0.07
+weeks 10
+amount 700
+
+name Claudia Oliveira
+gross salary 750,000
+resident n
+expenses 1000
+
+no accounts
